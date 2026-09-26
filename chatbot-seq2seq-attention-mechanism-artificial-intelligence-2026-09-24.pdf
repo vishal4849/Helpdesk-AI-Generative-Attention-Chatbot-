@@ -1,0 +1,1256 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 604
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.071 0.094 0.149 rg
+45.354330708661422 779.5277952755905062 Td
+(Project Export) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.29 0.333 0.408 rg
+45.354330708661422 751.1813385826771992 Td
+(Domain: Artificial Intelligence Export: Single project Projects: 1 Generated: 9/24/2026, 10:08:20 AM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 1 of 4) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6335
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.071 0.094 0.149 rg
+45.354330708661422 785.1970866141732586 Td
+(1. Chatbot using Sequence-to-Sequence \(Seq2Seq\) Model) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.392 0.455 0.545 rg
+45.354330708661422 749.7640157480315111 Td
+(Domain: Artificial Intelligence Slug: chatbot-seq2seq-attention-mechanism Created: 1/13/2026) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.055 0.341 0.267 rg
+45.354330708661422 720.0002362204724022 Td
+(Summary) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 702.9923622047243725 Td
+(This project involves building 'HelpDesk AI', a generative chatbot capable of contextual conversation. You will) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 688.2522047244094665 Td
+(implement a deep learning Sequence-to-Sequence \(Seq2Seq\) architecture with LSTM units and Attention) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 673.5120472440944468 Td
+(Mechanisms \(Bahdanau/Luong\) to generate natural human-like responses.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.055 0.341 0.267 rg
+45.354330708661422 643.1813385826770855 Td
+(Full Content) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 617.6695275590550409 Td
+(Project Overview) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 585.6380314960629221 Td
+(Case Study: HelpDesk AI) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 551.9057480314959321 Td
+(In the customer service industry, speed is everything. SaaS companies are overwhelmed by repetitive queries, yet) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 536.5986614173227736 Td
+(standard rule-based chatbots \(which just spit out pre-written answers\) often frustrate users due to their lack of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 521.2915748031495013 Td
+(flexibility.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 487.5592913385825682 Td
+("HelpDesk AI" aims to bridge this gap. The goal is to build a Generative Chatbot—an AI that doesn't just retrieve) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 472.252204724409296 Td
+(answers from a database, but constructs grammatical, contextual responses word-by-word, similar to how humans) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 456.9451181102360806 Td
+(speak.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 423.2128346456690906 Td
+(As an NLP Engineer intern, you will dive deep into Sequence-to-Sequence \(Seq2Seq\) modeling. You will build an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 407.9057480314958752 Td
+(Encoder-Decoder neural network that can understand a user's question \(Input Sequence\) and generate an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 392.598661417322603 Td
+(appropriate answer \(Output Sequence\), utilizing advanced techniques like Attention Mechanisms to handle long) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 377.2915748031493877 Td
+(and complex sentences.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 343.5592913385823977 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 301.3230708661415065 Td
+(Key Objectives & Execution Plan) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 260.7876377952752591 Td
+(Phase 1: Dataset Preparation & Preprocessing) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 233.0081102362200909 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 233.0081102362200909 Td
+(The Dataset: You will use the Cornell Movie Dialogs Corpus \(for open-ended chit-chat\) or a) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 218.2679527559051849 Td
+(custom Customer Support FAQ dataset. The movie corpus provides rich, natural) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 203.5277952755902788 Td
+(conversational exchanges.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 185.3860629921257441 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 185.3860629921257441 Td
+(Text Cleaning: Real dialogue is messy. You must write a pipeline to:) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 167.2443307086612094 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 167.2443307086612094 Td
+(Remove non-alphanumeric characters \(emojis, weird symbols\).) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 149.1025984251967884 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 149.1025984251967884 Td
+(Trim sentences to a maximum length \(e.g., 10-15 words\) to keep training manageable.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 130.9608661417322537 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 130.9608661417322537 Td
+(Vocabulary & Indexing: Neural networks require numbers, not words.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 112.8191338582676053 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 112.8191338582676053 Td
+(Build a Vocabulary \(mapping unique words to integers\).) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 94.6774015748031843 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 94.6774015748031843 Td
+(Add special tokens: <SOS> \(Start of Sentence\), <EOS> \(End of Sentence\), <PAD> \(Padding\), and) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 79.9372440944882783 Td
+(<UNK> \(Unknown\).) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 2 of 4) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 7618
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 785.1970866141732586 Td
+(Phase 2: The Seq2Seq Architecture) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 757.4175590551180903 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 757.4175590551180903 Td
+(The Encoder \(The Listener\): Build an LSTM \(Long Short-Term Memory\) or GRU network that) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 742.6774015748030706 Td
+(takes the input sentence \(embedded vectors\) and compresses the meaning into a "Context) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 727.9372440944881646 Td
+(Vector" \(hidden state\).) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 709.7955118110235162 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 709.7955118110235162 Td
+(The Decoder \(The Speaker\): Build a second LSTM that takes the Context Vector and generates the) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 695.0553543307086102 Td
+(response one word at a time.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 676.9136220472439618 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 676.9136220472439618 Td
+(The Attention Mechanism \(The Upgrade\): Standard Seq2Seq models forget the beginning of long) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 662.1734645669290558 Td
+(sentences. You will implement Bahdanau or Luong Attention. This allows the Decoder to "look back" at) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 647.4333070866140361 Td
+(specific words in the input sentence while generating the output, significantly improving context retention.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 616.5356692913385359 Td
+(Phase 3: Training Logic) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 588.7561417322833677 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 588.7561417322833677 Td
+(Teacher Forcing: During training, if you let the model predict the next word based on its own) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 574.015984251968348 Td
+(previous prediction, errors compound. Instead, you will use Teacher Forcing: feeding the) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 559.2758267716533283 Td
+(actual ground-truth word from the dataset as the input for the next time step.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 541.1340944881887935 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 541.1340944881887935 Td
+(Loss Function: Use Categorical Cross-Entropy \(since prediction is essentially a multi-class classification) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 526.3939370078737738 Td
+(problem over the entire vocabulary\).) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 495.4962992125982737 Td
+(Phase 4: Inference & Interaction) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 467.7167716535431055 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 467.7167716535431055 Td
+(The Chat Loop: Training is different from testing. During inference, you don't have the ground) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 452.9766141732281426 Td
+(truth. You must write a loop that:) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 434.8348818897636647 Td
+(1.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 434.8348818897636647 Td
+(Feeds the user input to the Encoder.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 416.69314960629913 Td
+(2.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 416.69314960629913 Td
+(Feeds the <SOS> token to the Decoder.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 398.5514173228346522 Td
+(3.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 398.5514173228346522 Td
+(Samples the most probable next word.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 380.4096850393701743 Td
+(4.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 380.4096850393701743 Td
+(Feeds that predicted word back into the Decoder as input for the next step.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 362.2679527559056396 Td
+(5.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 362.2679527559056396 Td
+(Stops when <EOS> is predicted.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 339.8742519685041543 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 297.6380314960631495 Td
+(Prerequisites) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 265.6065354330710306 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 265.6065354330710306 Td
+(Languages: Python.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 247.4648031496064959 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 247.4648031496064959 Td
+(Libraries: TensorFlow/Keras or PyTorch, NumPy, Pandas, Re \(Regex\).) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 229.3230708661419612 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 229.3230708661419612 Td
+(Concepts: Recurrent Neural Networks \(RNNs\), LSTMs/GRUs, Word Embeddings \(Word2Vec/GloVe\),) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 214.5829133858270552 Td
+(Seq2Seq, Attention Mechanisms, Perplexity.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 192.1892125984255699 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 149.9529921259845651 Td
+(Deliverables) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 117.9214960629924462 Td
+(1. The Model Notebook) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 88.4411811023625205 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 88.4411811023625205 Td
+(Preprocessing: Code showing the vocabulary building and padding.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 70.2994488188980995 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 70.2994488188980995 Td
+(Architecture: Clear implementation of the Encoder, Attention Layer, and Decoder.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 3 of 4) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 5644
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 785.1970866141732586 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 785.1970866141732586 Td
+(Training: Loss plots showing convergence.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 762.8033858267716596 Td
+(2. The Chatbot Model) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 733.3230708661417339 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 733.3230708661417339 Td
+(Saved weights for the Encoder and Decoder.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 710.9293700787401349 Td
+(3. Demo Interface) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 681.4490551181102092 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 681.4490551181102092 Td
+(A Streamlit or Flask web app. It should look like a messaging app \(e.g., WhatsApp style\) where you can) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 666.7088976377951894 Td
+(type "Hi" and the bot replies "Hello! How can I help you today?".) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 644.3151968503937042 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 602.0789763779526993 Td
+(Project Timeline & Deadlines) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 570.0474803149605805 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 570.0474803149605805 Td
+(Week 1: Data Pipeline) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 551.9057480314959321 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 551.9057480314959321 Td
+(Goal: From text to tensors.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 533.7640157480313974 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 533.7640157480313974 Td
+(Tasks: Load the Cornell dataset. Create pairs of \(Question, Answer\). Build the Vocabulary dictionary.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 519.0238582677163777 Td
+(Convert text to padded integer sequences.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 496.6301574803148355 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 496.6301574803148355 Td
+(Week 2: Building the Architecture) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 478.4884251968503008 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 478.4884251968503008 Td
+(Goal: Defining the graph.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 460.3466929133857661 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 460.3466929133857661 Td
+(Tasks: Implement the Encoder LSTM. Implement the Attention Layer \(the math is tricky here!\).) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 445.6065354330708601 Td
+(Implement the Decoder LSTM.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 423.2128346456693748 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 423.2128346456693748 Td
+(Week 3: Training) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 405.0711023622048401 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 405.0711023622048401 Td
+(Goal: Optimizing weights.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 386.9293700787403623 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 386.9293700787403623 Td
+(Tasks: Write the custom training loop \(if using PyTorch/TF GradientTape\). Apply Teacher Forcing.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 372.1892125984253994 Td
+(Train for ~50 epochs \(or until loss plateaus\). Test with simple inputs.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 349.7955118110239141 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 349.7955118110239141 Td
+(Week 4: Deployment & Polish) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 331.6537795275593794 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 331.6537795275593794 Td
+(Goal: Making it talk.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+87.8740157480315105 313.5120472440949015 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 313.5120472440949015 Td
+(Tasks: Write the inference/decoding function. Wrap the logic in a Streamlit app. Test the bot's ability to) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+110.5511811023622215 298.7718897637799955 Td
+(handle small talk. Write the final documentation.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 4 of 4) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260924100820+05'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000020973 00000 n 
+0000022813 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000000807 00000 n 
+0000000944 00000 n 
+0000007331 00000 n 
+0000007468 00000 n 
+0000015138 00000 n 
+0000015276 00000 n 
+0000021048 00000 n 
+0000021174 00000 n 
+0000021305 00000 n 
+0000021439 00000 n 
+0000021577 00000 n 
+0000021701 00000 n 
+0000021830 00000 n 
+0000021962 00000 n 
+0000022098 00000 n 
+0000022226 00000 n 
+0000022353 00000 n 
+0000022482 00000 n 
+0000022615 00000 n 
+0000022717 00000 n 
+0000023066 00000 n 
+0000023152 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <916ADC91766B5001FC45C559BA619756> <916ADC91766B5001FC45C559BA619756> ]
+>>
+startxref
+23256
+%%EOF
